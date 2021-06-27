@@ -1,0 +1,5 @@
+string = "this is rajashekar choppari"
+print("the name is + string[2]," " +string[3])
+
+the output is :
+the name is rajashekar choppari
